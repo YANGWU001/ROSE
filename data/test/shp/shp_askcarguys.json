@@ -1,0 +1,38 @@
+[
+  {
+    "prompt": "\n\nHuman: Can someone give me some advice about buying a car please? I found a 2012 Subaru outback at a dealership with 199k miles on it for 5800 or 6700 with a 2 year warranty. Everything on the car works and it's very clean. I have no idea if that's a good deal and if that's too many miles for the price. I barely have that amount to spend and need a good reliable car for me and my girls. Any advice would be greatly appreciated! Also, sorry if I did this post wrong, I don't know how to reddit.\n\nAssistant:",
+    "golden_answer": " I’d pass on that. It’ll go to shit the moment that two year warranty is up. Subarus aren’t exactly renowned for being reliable."
+  },
+  {
+    "prompt": "\n\nHuman: BMW e39 M5 owners, what problems have you came across upon owning one and how did you solve them? A relative bought an e39 M5 with the intention of giving it to me (I am in the process of getting my license and this will be my first car). Just so I am prepared, what problems will I need to look out for that are both short term and long term?\n\nAssistant:",
+    "golden_answer": " VANOS, oil leaks galore, clutches fairly often, expensive brakes/suspension/steering components, eats rear tires if driven correctly, makes every other car seem like a waste of time.  If you start with an E39 M5, you may never be happy with any subsequent car. Unless it bankrupts you. If you can afford to keep it going, it's phenomenal."
+  },
+  {
+    "prompt": "\n\nHuman: Supercharger Daily Driving?  I’ve wanted to install a supercharger in my car for a long time. I don’t want to make a race car, my goal is a fun car, I’ve currently got a full NA build and I got my car from 124 whp to 150whp. I know it’s not much, but this is my daily driver. I’d like to continue driving this car daily, even with a supercharger, but I’ve been seriously warned about daily driving a heavily modified car. I own a Saturn Sky 2.4L and I’ve been pricing the parts and making blueprints for a supercharger build. I’m currently wanting to get an Eaton m62 and I believe I’ve found a way to fit it within the firewall. I really think I’d be happy with 180 whp. I also hope to work on this project and actually have it installed by the end of next year. I’m taking my time to not only learn more but to save up for the right quality pieces.  Knowing what I just wrote, here’s where I really need advice. Currently, because of COVID, my job won’t require me to go to work (even after covid) as much, so I don’t need to drive as much. I still want my car to be reliable enough to get me from point A to point B. I know mods will not make this a Toyota Corolla, but is it realistic to do small gains on a supercharger and still expect your car to be daily usable? Or should I really get a 2nd car as a daily before doing this? I more am not knowing if I should get a 2nd car before modifying my Saturn further or if this supercharger at a lower whp increase would be fine. As, I’d prefer to drive my stupid car daily because my inner child would scream every time. Lastly, when I say I want my car to be, “reliable enough”, I mean that I don’t care if it is not drivable for like a month every year. Thank you for any advice given and taking the time to read this!\n\nAssistant:",
+    "golden_answer": " I've seen a Subaru BRZ with \\~300hp get absolutely spanked for 15000 net(!) track miles and still run beautifully.  If you do it right and you drive it right (warm up, cool down) you'll be fine. It is however very likely that getting the faster model will be both cheapter AND getting you better resale value. So, is it possible? Yes. Does it make sense? Not if what you want is simply a quicker car. Some people want their stuff to be bespoke, which is just as fine. It does cost more money though."
+  },
+  {
+    "prompt": "\n\nHuman: What are the practical effects of common suspension mods? Looking for an enthusiast's/mechanic's/car guy's summary of why one would want to do some of these oft talked about mods, in no particular order:  * Sway/anti-roll bars   * Endlinks * Control arms * Springs * Shocks * Coilovers (as opposed to springs and shocks) * Lowering * And any others I might've missed\n\nAssistant:",
+    "golden_answer": " Better start reading: http://www.carbibles.com/suspension_bible.html"
+  },
+  {
+    "prompt": "\n\nHuman: Is it possible to get transmission service on a 2013 Toyota RAV4? Odometer reads 160k and I worry the tranny needs cleaning\n\nAssistant:",
+    "golden_answer": " Anyone telling you not to flush it is just repeating old stories. If a flush breaks your trans, your trans was already broken. My BMW transmission has lifetime fluid and no service interval. I did a trans service the first month I owned it. If your normal dealer doesn't want to do it, find one that will. All fluids wear out eventually."
+  },
+  {
+    "prompt": "\n\nHuman: Worst car you ever owned? Would like to know what cars to avoid.\n\nAssistant:",
+    "golden_answer": " All the fords (1999-2007) have been pieces of shit."
+  },
+  {
+    "prompt": "\n\nHuman: Hello. There's a wire hanging underneath my car that runs from front to back.. Pictures in other field. Can anyone help me identify it? I have a Jeep and there's a wire hanging down. The end is wrapped, but looks like it's supposed to be that way. Not by tape. There's a slight \"scratch\" with the metal inside the coating exposed. I don't know what this wire is. Is it important? Do I need to reattach it before I can drive? http://i.imgur.com/b240mYA.jpg http://i.imgur.com/0niC0Vf.jpg\n\nAssistant:",
+    "golden_answer": " That wore looks like it may be an Addon item. was there a previous owner?   Any ABS or chk engine light on?  I say looks after,varlet because even though it looks like an ABS wire they usually don't have shrink wrapped splices in them.  Most factory whoring is either straight through or spliced by connectors. Not shrinkwrapped.   Also check in /r/Jeep."
+  },
+  {
+    "prompt": "\n\nHuman: Do mechanics in the US have to buy their own toolbox? I've seen some videos about mechanics quitting their job and taking their toolbox with them, is that really a thing that they have to pay for their own tools while working in a workshop?\n\nAssistant:",
+    "golden_answer": " Yes you are expected to provide your own tools."
+  },
+  {
+    "prompt": "\n\nHuman: Is the parking brake supposed to hold the vehicle on a slope? My 2021 Tundra (automatic transmission ofc) is in the shop today for it's 5k mile service and I told them the parking brake doesn't hold the truck in my driveway. The service manager told me the mechanic will tell him it's not supposed to. He's writing it up anyway, but said don't hold my breath.   It was my rudimentary understanding of vehicles, that the reason you use the parking brake is to keep pressure off of the transmission parking pin. Every vehicle I've ever driven had a parking brake that would hold the vehicle, including my 2014 tundra before this one.  Is this guy blowing smoke, or is there some truth about what he's saying?\n\nAssistant:",
+    "golden_answer": " Holding the vehicle on a slope is pretty much the whole purpose of the parking brake.  You are correct."
+  }
+]
