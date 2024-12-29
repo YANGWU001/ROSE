@@ -9,6 +9,8 @@ To get started with the repo, you can easily create the conda environment using 
 ```setup
 conda env create -n rose -f environment.yml
 conda activate rose
+# then use pip install fast-jl
+pip install fast-jl==0.1.3
 
 ```
 
